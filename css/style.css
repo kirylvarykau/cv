@@ -110,6 +110,10 @@ body {
     margin-left: 10px;
 }
 
+.text-ml-telegram {
+    margin-left: 15px;
+}
+
 .icon-img {
     width: 20px;
     height: 20px;
@@ -196,9 +200,12 @@ a:active {
 }
 
 .skill-list {
-    margin-top: 20px;
+    margin-top: 15px;
     width: 100%;
-    flex-wrap: wrap;
+}
+
+.mt-10 {
+    margin-top: 10px;
 }
 
 .chip {
