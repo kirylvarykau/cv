@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
 body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container {
@@ -96,7 +99,7 @@ body {
 .info-col {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 250px;
     height: 80%;
     justify-content: space-around;
     align-items: flex-start;
@@ -201,9 +204,10 @@ a:active {
 .chip {
     border-radius: 20px;
     background: #ece7d9;
-    padding: 10px;
+    padding: 5px 10px;
     margin-left: 5px;
     margin-bottom: 5px;
+    min-width: 120px;
 }
 
 .fw-bold {
@@ -232,7 +236,19 @@ a:active {
     align-items: flex-start;
 }
 
+.ai-center {
+    align-items: center;
+}
+
 .chess-icon {
-    width: 25px;
-    height: 20px;
+    width: 24px;
+    height: 24px;
+}
+
+.chess-mr {
+    margin-right: 17px;
+}
+
+.hobbies {
+    flex-wrap: wrap;
 }
