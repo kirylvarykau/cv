@@ -175,6 +175,14 @@ a:active {
     flex-direction: column;
 }
 
+.jc-flex-start {
+    justify-content: flex-start;
+}
+
+.ml-13 {
+    margin-left: 13px;
+}
+
 .jc-center {
     justify-content: center;
 }
