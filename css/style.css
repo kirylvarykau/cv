@@ -271,4 +271,6 @@ a:active {
 .project-description {
     margin-top: 10px;
     margin-left: 1em;
+    display: flex;
+    flex-direction: column;
 }
