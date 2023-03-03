@@ -267,3 +267,8 @@ a:active {
 .hobbies {
     flex-wrap: wrap;
 }
+
+.project-description {
+    margin-top: 10px;
+    margin-left: 1em;
+}
