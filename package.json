@@ -1,0 +1,24 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirylvarykau/cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirylvarykau/cv/issues"
+  },
+  "homepage": "https://github.com/kirylvarykau/cv#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.2"
+  }
+}
