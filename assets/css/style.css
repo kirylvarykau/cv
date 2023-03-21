@@ -274,3 +274,7 @@ a:active {
     display: flex;
     flex-direction: column;
 }
+
+.min-size {
+    min-width: 106px;
+}
