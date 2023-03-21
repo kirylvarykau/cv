@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 import fs from 'fs';
-import setTimeout from 'timers'
+import {setTimeout} from 'timers/promises'
 
 
 (async () => {
