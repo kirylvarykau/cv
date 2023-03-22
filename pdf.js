@@ -16,7 +16,7 @@ import {setTimeout} from 'timers/promises'
 
   const pdf = await page.pdf({
     path: 'result.pdf',
-    margin: { top: '100px', right: '50px', bottom: '100px', left: '50px' },
+    margin: { top: '50px', right: '20px', bottom: '50px', left: '20px' },
     printBackground: true,
     preferCSSPageSize: true,
     format: 'A2',
