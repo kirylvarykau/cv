@@ -278,3 +278,9 @@ a:active {
 .min-size {
     min-width: 106px;
 }
+
+.divider {
+    width: 100%;
+    height: 2px;
+    background-color: lightgrey;
+}
