@@ -255,6 +255,10 @@ a:active {
     align-items: center;
 }
 
+.f-gap-5 {
+    gap: 5px;
+}
+
 .chess-icon {
     width: 24px;
     height: 24px;
@@ -281,6 +285,6 @@ a:active {
 
 .divider {
     width: 100%;
-    height: 2px;
+    height: 1px;
     background-color: lightgrey;
 }
