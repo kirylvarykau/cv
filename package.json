@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/kirylvarykau/cv#readme",
   "dependencies": {
-    "@types/node": "^20.14.10",
-    "express": "^4.19.2",
-    "puppeteer": "^22.12.1"
+    "@types/node": "^24.0.3",
+    "express": "^5.1.0",
+    "puppeteer": "^24.10.2"
   }
 }
